@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_URL"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="YOUR_WHATSAPP_COMMUNITY_LINK"><img src="https://img.shields.io/badge/WhatsApp-Join%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/Website-Visit-F59E0B?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/gaurav-halnawar/"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://chat.whatsapp.com/Jbzc5caZMEWElHLmKKZpfg"><img src="https://img.shields.io/badge/WhatsApp-Join%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 **TL;DR.** A green pipeline only proves your code built and deployed. It says nothing about whether the code is safe. *Shift left* means moving security checks earlier (to the commit, the pull request and the build), where problems are faster, cheaper and less risky to fix.
